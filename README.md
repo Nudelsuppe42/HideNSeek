@@ -1,4 +1,4 @@
 # HideNSeek
 Bruh 
 
-###For Decent my buddy
+## For Decent my buddy
