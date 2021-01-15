@@ -1,0 +1,10 @@
+
+name: HideNSeek
+main: de.nudelsuppe.hidenseek.Main
+version: 1.3.1
+commands:
+  hideandseek:
+    aliases: [hideandseek,has]
+    description: Start a Hide & Seek game.
+    permission: sybhideandseek.start
+    usage: /sybhideandseek
